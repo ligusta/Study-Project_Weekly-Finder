@@ -1,4 +1,4 @@
-# Study-Project_Weekly-Finder
+# Study Project: Weekly Finder
 A learning project as part of a Swift Book course. Application for finding the day of the week by the entered date, month and year.
 
 # 1. Home screen
