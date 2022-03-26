@@ -1,7 +1,7 @@
 # Study Project: Weekly Finder
 A learning project as part of a Swift Book course. Application for finding the day of the week by the entered date, month and year.
 
-# 1. Home screen
+# 1. Main screen
 At the top, there is a Label element in which the name of the application is present.<br/>
 <br/>
 Next comes the text fiel with an explanation on the left side of the screen: date, month and year.<br/>
